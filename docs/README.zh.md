@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | 词汇表可直接导入 Excel 和 Anki 卡片。 |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | 面向开发者的机器可读词汇数据。 |
 | [overview.md](../syllabus/overview.md) | Markdown | 按级别速查题型、题量、时长和评分。 |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | 按 BCT A、B、C 整理的商务场景与中文关键词。 |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 已确认的考试日期和考试形式。 |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | 可导入日历的全天事件。 |
 

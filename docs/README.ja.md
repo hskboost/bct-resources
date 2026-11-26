@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | Excel と Anki に直接インポートできる語彙データ。 |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | 開発者向けの機械可読な語彙データ。 |
 | [overview.md](../syllabus/overview.md) | Markdown | 受験級、出題構成、試験時間、採点の一覧。 |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | BCT A・B・C別のビジネス場面と中国語キーワード。 |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 確認済みの試験日と実施形式。 |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | カレンダーに取り込める終日予定。 |
 

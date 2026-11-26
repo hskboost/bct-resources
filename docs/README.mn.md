@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | Excel болон Anki-д шууд импортлох үгийн сан. |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | Хөгжүүлэгчдэд зориулсан машинаар унших үгийн сан. |
 | [overview.md](../syllabus/overview.md) | Markdown | Түвшин, даалгаврын бүтэц, үргэлжлэх хугацаа, үнэлгээний тойм. |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | BCT A, B, C-д зориулсан бизнесийн нөхцөл ба хятад түлхүүр үгс. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Баталгаажсан шалгалтын огноо ба хэлбэр. |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | Хуанлид импортлох бүтэн өдрийн үйл явдал. |
 

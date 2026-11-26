@@ -13,6 +13,7 @@ Quản lý bởi [HSKBoost](https://hskboost.com/vi/).
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | Từ vựng có thể nhập trực tiếp vào Excel và Anki. |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | Dữ liệu từ vựng có cấu trúc dành cho nhà phát triển. |
 | [overview.md](../syllabus/overview.md) | Markdown | Tóm tắt cấp độ, cấu trúc đề, thời lượng và cách chấm điểm. |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | Tình huống kinh doanh và từ khóa tiếng Trung cho BCT A, B và C. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Ngày thi và hình thức thi đã được xác nhận. |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | Sự kiện cả ngày để nhập vào lịch. |
 

@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | Excel과 Anki로 바로 가져올 수 있는 어휘 자료입니다. |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | 개발자용 기계 판독 어휘 데이터입니다. |
 | [overview.md](../syllabus/overview.md) | Markdown | 급수, 문항 구성, 시험 시간, 채점 기준을 정리했습니다. |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | BCT A·B·C별 비즈니스 상황과 중국어 핵심 어휘. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | 확인된 시험일과 시행 방식입니다. |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | 캘린더로 가져올 수 있는 종일 일정입니다. |
 

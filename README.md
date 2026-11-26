@@ -13,6 +13,7 @@ Maintained by [HSKBoost](https://hskboost.com/en/).
 | [bct-vocabulary.csv](./vocabulary/bct-vocabulary.csv) | CSV | Vocabulary for direct import into Excel and Anki. |
 | [bct-all.json](./vocabulary/bct-all.json) | JSON | Machine-readable vocabulary for developers. |
 | [overview.md](./syllabus/overview.md) | Markdown | Exam levels, question structure, duration and scoring. |
+| [business-scenarios.md](./topics/business-scenarios.md) | Markdown | Business scenarios and Chinese keywords for BCT A, B and C. |
 | [2026-2027-schedule.md](./exam-dates/2026-2027-schedule.md) | Markdown | Confirmed exam dates and delivery formats. |
 | [bct-2026-2027.ics](./exam-dates/bct-2026-2027.ics) | iCalendar | All-day events for calendar import. |
 

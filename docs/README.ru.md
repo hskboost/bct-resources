@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | Словарь для прямого импорта в Excel и Anki. |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | Машиночитаемый словарь для разработчиков. |
 | [overview.md](../syllabus/overview.md) | Markdown | Уровни, структура заданий, продолжительность и оценивание. |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | Деловые ситуации и китайские ключевые слова для BCT A, B и C. |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | Подтверждённые даты и форматы экзамена. |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | События на весь день для импорта в календарь. |
 

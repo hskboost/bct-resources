@@ -13,6 +13,7 @@
 | [bct-vocabulary.csv](../vocabulary/bct-vocabulary.csv) | CSV | ข้อมูลคำศัพท์ที่นำเข้า Excel และ Anki ได้โดยตรง |
 | [bct-all.json](../vocabulary/bct-all.json) | JSON | ข้อมูลคำศัพท์ที่ระบบอ่านได้สำหรับนักพัฒนา |
 | [overview.md](../syllabus/overview.md) | Markdown | สรุประดับ โครงสร้างข้อสอบ ระยะเวลา และการให้คะแนน |
+| [business-scenarios.md](../topics/business-scenarios.md) | Markdown | สถานการณ์ทางธุรกิจและคำสำคัญภาษาจีนสำหรับ BCT A, B และ C |
 | [2026-2027-schedule.md](../exam-dates/2026-2027-schedule.md) | Markdown | วันสอบและรูปแบบการสอบที่ได้รับการยืนยัน |
 | [bct-2026-2027.ics](../exam-dates/bct-2026-2027.ics) | iCalendar | กิจกรรมตลอดวันสำหรับนำเข้าปฏิทิน |
 
